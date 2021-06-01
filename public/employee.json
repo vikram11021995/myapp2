@@ -1,0 +1,10 @@
+[
+    {"name":"Vikram", "company":"TCS", "salary":600000},
+    {"name":"Tanveer", "company":"TCS", "salary":500000},
+    {"name":"Saqib", "company":"TCS", "salary":2000},
+    {"name":"Linux", "company":"TCS", "salary":5000},
+    {"name":"Hashim", "company":"TCS", "salary":1000},
+    {"name":"Hashim", "company":"TCS", "salary":1000},
+    {"name":"Hashim", "company":"TCS", "salary":1000}
+
+]
